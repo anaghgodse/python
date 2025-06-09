@@ -1,5 +1,5 @@
 # python
-python developer tasks 1&2
+tAssignment 1
 task 1
 it has the basic operations done in the program 
 variable a takes first number input,varibale b takes second number input
